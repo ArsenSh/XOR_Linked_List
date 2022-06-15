@@ -15,6 +15,3 @@ int main()
     
     return 0;
 }
-
-
-// cout operator and traverse
